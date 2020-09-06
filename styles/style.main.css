@@ -636,6 +636,7 @@ textarea {
 
 .experience__grid {
   width: 100%;
+  height: 75%;
   display: -ms-grid;
   display: grid;
   color: #d1ced5;
@@ -653,6 +654,10 @@ textarea {
 }
 
 .experience__grid .experience__employers .experience__button {
+  background: none;
+  border: none;
+  color: #d1ced5;
+  font-family: "Product Sans Regular", sans-serif;
   padding: 1rem;
   display: inline-block;
   width: 100%;
