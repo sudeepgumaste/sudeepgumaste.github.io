@@ -96,13 +96,13 @@ const experiences = [
             Wrote styles for the same with scss following BEM conventions.
         </li>
         <li>
-            Worked with the backend team to integrate the frontend with backend APIs.
-        </li>
-        <li>
             Coded actions and reducers for redux stores that links components and enables efficient flow of data between the components
         </li>
         <li>
             Wrote unit tests for the components and integration tests to ensure the proper working of the application.
+        </li>
+        <li>
+            Worked with backend developer on integration.
         </li>
         <li>
             <span>Tools and Technologies : </span> React.js, Redux, (s)css, Jest, REST APIs, webpack, storybook, Git and Github
